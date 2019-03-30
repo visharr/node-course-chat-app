@@ -12,7 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "moment": "^2.24.0",
     "node": "10.15.1",
     "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "expect": "^24.5.0",
+    "mocha": "^6.0.2"
   }
 }
